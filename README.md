@@ -6,8 +6,8 @@ Features of this API:
 
 - CRUD operations with MongoDB
 - Cookie based authentication
-- Controllers creation
-- Middlewares creation
+- Controllers
+- Middlewares 
 
 ### Install packages
 
